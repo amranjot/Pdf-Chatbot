@@ -31,3 +31,24 @@ Run the application using the following command:
 ```bash
 streamlit run app.py
 
+## Usage (Continued)
+
+8. **Example Workflow:**
+    - *Upload PDF:* Click the provided file uploader to select and upload a PDF document.
+    - *Ask Questions:* Input your questions about the PDF content into the designated text field.
+    - *View Responses:* Explore the generated responses below and gain insights into your queries.
+
+9. **Exploring Further:**
+    - Feel free to experiment with different PDFs and questions to see how the Chatbot responds.
+    - Adjust the chunk size and overlap parameters in the LangChain text splitter for optimized results.
+
+## About the Author
+This app was developed by **Ranjot** to showcase the capabilities of LangChain and leverage the power of OpenAI's LLM.
+
+Your contributions, issue reports, and feedback are highly appreciated!
+
+---
+
+*Note: Replace `[your-username]` with your GitHub username in the repository clone URL.*
+
+
