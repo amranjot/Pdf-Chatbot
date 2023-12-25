@@ -30,10 +30,9 @@ This project is a Chatbot application powered by LangChain and OpenAI's LLM (Lan
 Run the application using the following command:
 ```bash
 streamlit run app.py
+```
 
-## Usage (Continued)
-
-8. **Example Workflow:**
+## **Example Workflow:**
     - *Upload PDF:* Click the provided file uploader to select and upload a PDF document.
     - *Ask Questions:* Input your questions about the PDF content into the designated text field.
     - *View Responses:* Explore the generated responses below and gain insights into your queries.
@@ -47,8 +46,5 @@ This app was developed by **Ranjot** to showcase the capabilities of LangChain a
 
 Your contributions, issue reports, and feedback are highly appreciated!
 
----
-
-*Note: Replace `[your-username]` with your GitHub username in the repository clone URL.*
 
 
